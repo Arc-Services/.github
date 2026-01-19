@@ -8,7 +8,6 @@ Our goal is to help developers save time and resources by handling common online
 Arc provides a modular set of online services, including:
 - Accounts and authentication
 - Anti-cheat
-- Account data and player progression
 - Matchmaking
 - Party system
 - Title storage
